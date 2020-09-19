@@ -9,13 +9,13 @@
   <b> Follow on Social Media Platforms </b>
 </p>
 <p align="center">
-<a href="https://www.facebook.com/secnhack"><img title="GitHub version" src="https://img.shields.io/badge/-Telegram-blue" ></a><a href="https://www.youtube.com/channel/UCfBDWui9dSRbCmT32jf848Q"><img title="GitHub version" src="https://img.shields.io/badge/-youtube-red" ></a><a href="https://twitter.com/secnhack?lang=en"><img title="GitHub version" src="https://img.shields.io/badge/-Twitter-blue" ></a>
+<a href="https://www.facebook.com/secnhack"><img title="GitHub version" src="https://img.shields.io/badge/-Telegram-blue" ></a><a href="https://www.youtube.com/channel/UC3JBxLCH8cEH81LoyoAnJ0A/videos"><img title="GitHub version" src="https://img.shields.io/badge/-Youtube-red" ></a><a href="https://www.instagram.com/hackeryadav07/"><img title="GitHub version" src="https://img.shields.io/badge/-Instagram-pink" ></a>
 </p>
 <p align="center">
   <b> Contribute us</b>
 </p>
 <p align="center">
-<a href="https://www.paypal.com/paypalme2/Goyal827"><img title="GitHub version" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+<a href="https://www.paypal.com/paypalme2/hemanthrx"><img title="GitHub version" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
 </p>
 <p align="center">
   <b> Want to Learn to Create Professional Phishing Page, Ethical Hacking, Bug Bounty visit - secnhack.in  </b>
@@ -27,22 +27,8 @@
 <br>
 
 ### Join Our Whastapp Group For Any Queries and Learn Hacking 
-https://chat.whatsapp.com/J6FCipjBwg76UGI7Px2oae  -- If its Full
-https://chat.whatsapp.com/LFDAwmHkYDe1XI18AiKbLS  -- If its Full
-https://chat.whatsapp.com/IPc4q8uifaQDoqSxJrguW1
 
 
-### SPECIAL OTP BYPASS VIDEO WORKED
-
-Social Media Hack          |      Link
----------------------------|---------------
-Installation Termux        | https://www.youtube.com/watch?v=LO3hX1lLBjI
-Whatsapp OTP               | https://www.youtube.com/watch?v=6zfpSn2mOLU
-Google OTP                 | https://www.youtube.com/watch?v=MhSb4My1lZo
-Paytm OTP                  | https://www.youtube.com/watch?v=3TB_sISTw9U
-Instagram OTP              | https://www.youtube.com/watch?v=VmkV1rrw2-w
-Phone Pay OTP              | https://www.youtube.com/watch?v=ZgaoLubKBBo
-Telegram OTP               | https://www.youtube.com/watch?v=BhGyGkIDhO0
 
 ### TECHNIQUE
 When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
@@ -57,14 +43,14 @@ When victim enter his credentials, you need to go to original website and use th
 
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/Hacker-Yadav/ADV-PHISING.git
 * cd AdvPhishing/
 * chmod 777 *
 * ./Android-Setup.sh
 * ./AdvPhishing.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/Hacker-Yadav/ADV-PHISING.git
 * cd AdvPhishing/
 * chmod 777 *
 * ./Linux-Setup.sh
@@ -90,7 +76,7 @@ When victim enter his credentials, you need to go to original website and use th
 
 ### Contact For Contribute & Issues 
 
-                                      EMAIL FOR ISSUES AND CONTRIBUTE : sg5479845@gmail.com
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : testforhackeryadav@gmail.com
 
 ### DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
