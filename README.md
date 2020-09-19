@@ -9,7 +9,7 @@
   <b> Follow on Social Media Platforms </b>
 </p>
 <p align="center">
-<a href="https://www.facebook.com/secnhack"><img title="GitHub version" src="https://img.shields.io/badge/-Telegram-blue" ></a><a href="https://www.youtube.com/channel/UC3JBxLCH8cEH81LoyoAnJ0A/videos"><img title="GitHub version" src="https://img.shields.io/badge/-Youtube-red" ></a><a href="https://www.instagram.com/hackeryadav07/"><img title="GitHub version" src="https://img.shields.io/badge/-Instagram-pink" ></a>
+<a href="https://t.me/Hackeryadav07"><img title="GitHub version" src="https://img.shields.io/badge/-Telegram-blue" ></a><a href="https://www.youtube.com/channel/UC3JBxLCH8cEH81LoyoAnJ0A/videos"><img title="GitHub version" src="https://img.shields.io/badge/-Youtube-red" ></a><a href="https://www.instagram.com/hackeryadav07/"><img title="GitHub version" src="https://img.shields.io/badge/-Instagram-pink" ></a>
 </p>
 <p align="center">
   <b> Contribute us</b>
@@ -28,13 +28,15 @@
 
 ### Join Our Whastapp Group For Any Queries and Learn Hacking 
 
+https://chat.whatsapp.com/IyeldE9OKE3IvyDVVCf7RD
+
 
 
 ### TECHNIQUE
 When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
 
 ### TUTORIAL [ KALI ]
-[(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)](https://youtu.be/A0cfbrz5mKE)
+[(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)]()
 
 ### SCREENSHOT ( KALI )
 ![1](https://user-images.githubusercontent.com/55870659/92330976-02e00e00-f041-11ea-9c32-bc33d2971b06.png)
